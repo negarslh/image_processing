@@ -14,7 +14,7 @@ python main.py
 
 <img src="1_Snapchat_Filter\input\apple.jpg" width="200" height="200">
 <img src="1_Snapchat_Filter\input\orange.jpg" width="200" height="200">
-<img src="1_Snapchat_Filter\input\face.jpg" width="200" height="150">
+<img src="1_Snapchat_Filter\input\face.jpg" width="200" height="200">
 
 <br/>
 

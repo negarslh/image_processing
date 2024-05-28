@@ -1,8 +1,6 @@
-# output
+# Run the  ``` main.py ```  file in any folder
 
-```
-python main.py
-```
+<br/>
 
 ### [🔗1_Snapchat_Filter](https://github.com/negarslh/image_processing/tree/main/Assignment_30/1_Snapchat_Filter)
 
@@ -23,6 +21,8 @@ python main.py
 <img src="1_Snapchat_Filter/output/apple_filter.png" width="200" height="200">
 <img src="1_Snapchat_Filter/output/orange_filter.png" width="200" height="200">
 
+<br/>
+
 ### [🔗2_Rotate_Photo](https://github.com/negarslh/image_processing/tree/main/Assignment_30/2_Rotate_Photo)
 
 <br/>
@@ -39,6 +39,8 @@ python main.py
 
 <img src="2_Rotate_Photo/output/rotate_image.jpg" width="200" height="200">
 
+<br/>
+
 ### [🔗3_Align_Face](https://github.com/negarslh/image_processing/tree/main/Assignment_30/3_Align_Face)
 
 <br/>
@@ -54,6 +56,8 @@ python main.py
 - <B>output
 
 <img src="3_Align_Face/output/face.jpg" width="200" height="200">
+
+<br/>
 
 ### [🔗4_Big_Eyes_And_Lips](https://github.com/negarslh/image_processing/tree/main/Assignment_30/4_Big_Eyes_And_Lips)
 

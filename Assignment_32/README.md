@@ -38,8 +38,10 @@
 
 - <B>output
 
-![Filter Average Output](https://github.com/negarslh/image_processing/blob/main/Assignment_32/2_Average_filter_to_reveal_hidden/output/image.tif)
+![Filter Average Output](https://github.com/negarslh/image_processing/raw/main/Assignment_32/2_Average_filter_to_reveal_hidden/output/image.tif)
+
 ![Filter Average Output](https://github.com/negarslh/image_processing/blob/main/Assignment_32/2_Average_filter_to_reveal_hidden/output/filter_3x3.tif)
+
 ![Filter Average Output](https://github.com/negarslh/image_processing/blob/main/Assignment_32/2_Average_filter_to_reveal_hidden/output/filter_5x5.tif)
 
 
